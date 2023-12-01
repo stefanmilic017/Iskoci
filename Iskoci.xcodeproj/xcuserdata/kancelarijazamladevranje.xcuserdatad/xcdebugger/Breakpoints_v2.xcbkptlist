@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "864959EC-9865-42CE-882C-94F963FF6341"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "359EABE6-154D-4FF8-88AE-4F418F167EAA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Scenes/Options/OptionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A053EAC2-62E5-4E85-95BE-7042CA6D41EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../var/folders/jg/8sgjzt6514z53dn9fhjtjqg00000gn/T/swift-generated-sources/@__swiftmacro_6Iskoci33_8EA4573E2CA059FCF76DEA4D9E5CE77DLl7PreviewfMf0_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "$s6Iskoci33_8EA4573E2CA059FCF76DEA4D9E5CE77DLl7PreviewfMf0_15PreviewRegistryfMu_"
+            landmarkType = "37">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5449BCF6-4AA3-4905-9FA0-BFD8741CD201"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Networking/Services/EventsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "sendHeadersRequest(method:url:headers:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5449BCF6-4AA3-4905-9FA0-BFD8741CD201 - 29481ac0de57764e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Iskoci.UserResponse, Alamofire.AFError&gt;) -&gt; () in static Iskoci.EventsService.sendHeadersRequest(method: Alamofire.HTTPMethod, url: Swift.String, headers: Alamofire.HTTPHeaders, _: (Swift.Result&lt;Iskoci.UserResponse, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kancelarijazamladevranje/Documents/Stefan%20Milic/Iskoci/Iskoci/Networking/Services/EventsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "5449BCF6-4AA3-4905-9FA0-BFD8741CD201 - 29481ac0de57764e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Iskoci.UserResponse, Alamofire.AFError&gt;) -&gt; () in static Iskoci.EventsService.sendHeadersRequest(method: Alamofire.HTTPMethod, url: Swift.String, headers: Alamofire.HTTPHeaders, _: (Swift.Result&lt;Iskoci.UserResponse, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kancelarijazamladevranje/Documents/Stefan%20Milic/Iskoci/Iskoci/Networking/Services/EventsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8F8903D-1C6E-48D3-B23A-D512FB737440"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Networking/Services/EventsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "sendHeadersRequest(method:url:headers:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D8F8903D-1C6E-48D3-B23A-D512FB737440 - 29481ac0de5776ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Iskoci.UserResponse, Alamofire.AFError&gt;) -&gt; () in static Iskoci.EventsService.sendHeadersRequest(method: Alamofire.HTTPMethod, url: Swift.String, headers: Alamofire.HTTPHeaders, _: (Swift.Result&lt;Iskoci.UserResponse, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kancelarijazamladevranje/Documents/Stefan%20Milic/Iskoci/Iskoci/Networking/Services/EventsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "D8F8903D-1C6E-48D3-B23A-D512FB737440 - 29481ac0de57760c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Iskoci.UserResponse, Alamofire.AFError&gt;) -&gt; () in static Iskoci.EventsService.sendHeadersRequest(method: Alamofire.HTTPMethod, url: Swift.String, headers: Alamofire.HTTPHeaders, _: (Swift.Result&lt;Iskoci.UserResponse, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kancelarijazamladevranje/Documents/Stefan%20Milic/Iskoci/Iskoci/Networking/Services/EventsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87482316-015F-4787-9DB8-1A2C0DF39E82"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Networking/Services/EventsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "removeFromFavoriteRequest(method:url:headers:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87482316-015F-4787-9DB8-1A2C0DF39E82 - 8634aec47f34a293"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Iskoci.UserResponse, Alamofire.AFError&gt;) -&gt; () in static Iskoci.EventsService.removeFromFavoriteRequest(method: Alamofire.HTTPMethod, url: Swift.String, _: (Swift.Result&lt;Iskoci.UserResponse, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kancelarijazamladevranje/Documents/Stefan%20Milic/Iskoci/Iskoci/Networking/Services/EventsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "87482316-015F-4787-9DB8-1A2C0DF39E82 - a2f7fd4caf4a2515"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Iskoci.UserResponse, Alamofire.AFError&gt;) -&gt; () in static Iskoci.EventsService.removeFromFavoriteRequest(method: Alamofire.HTTPMethod, url: Swift.String, headers: Alamofire.HTTPHeaders, _: (Swift.Result&lt;Iskoci.UserResponse, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kancelarijazamladevranje/Documents/Stefan%20Milic/Iskoci/Iskoci/Networking/Services/EventsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3EE855F-6547-40DE-8C85-2CCB489EEB5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Networking/Services/EventsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "removeFromFavoriteRequest(method:url:headers:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C3EE855F-6547-40DE-8C85-2CCB489EEB5B - 8634aec47f34a2d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Iskoci.UserResponse, Alamofire.AFError&gt;) -&gt; () in static Iskoci.EventsService.removeFromFavoriteRequest(method: Alamofire.HTTPMethod, url: Swift.String, _: (Swift.Result&lt;Iskoci.UserResponse, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kancelarijazamladevranje/Documents/Stefan%20Milic/Iskoci/Iskoci/Networking/Services/EventsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "C3EE855F-6547-40DE-8C85-2CCB489EEB5B - a2f7fd4caf4a2553"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Iskoci.UserResponse, Alamofire.AFError&gt;) -&gt; () in static Iskoci.EventsService.removeFromFavoriteRequest(method: Alamofire.HTTPMethod, url: Swift.String, headers: Alamofire.HTTPHeaders, _: (Swift.Result&lt;Iskoci.UserResponse, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kancelarijazamladevranje/Documents/Stefan%20Milic/Iskoci/Iskoci/Networking/Services/EventsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71B0E62E-2F6B-42A3-9CB1-B3B540B8AC1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Networking/Services/EventsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "addToFavoriteRequest(method:url:headers:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71B0E62E-2F6B-42A3-9CB1-B3B540B8AC1F - c1f1af311f853b8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Iskoci.UserResponse, Alamofire.AFError&gt;) -&gt; () in static Iskoci.EventsService.addToFavoriteRequest(method: Alamofire.HTTPMethod, url: Swift.String, _: (Swift.Result&lt;Iskoci.UserResponse, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kancelarijazamladevranje/Documents/Stefan%20Milic/Iskoci/Iskoci/Networking/Services/EventsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "71B0E62E-2F6B-42A3-9CB1-B3B540B8AC1F - 10f08a30690e3a6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Iskoci.UserResponse, Alamofire.AFError&gt;) -&gt; () in static Iskoci.EventsService.addToFavoriteRequest(method: Alamofire.HTTPMethod, url: Swift.String, headers: Alamofire.HTTPHeaders, _: (Swift.Result&lt;Iskoci.UserResponse, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kancelarijazamladevranje/Documents/Stefan%20Milic/Iskoci/Iskoci/Networking/Services/EventsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2CCAD30-3EE4-47E6-B1B9-92C68F161615"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Networking/Services/EventsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "addToFavoriteRequest(method:url:headers:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E2CCAD30-3EE4-47E6-B1B9-92C68F161615 - c1f1af311f853bcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Iskoci.UserResponse, Alamofire.AFError&gt;) -&gt; () in static Iskoci.EventsService.addToFavoriteRequest(method: Alamofire.HTTPMethod, url: Swift.String, _: (Swift.Result&lt;Iskoci.UserResponse, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kancelarijazamladevranje/Documents/Stefan%20Milic/Iskoci/Iskoci/Networking/Services/EventsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "E2CCAD30-3EE4-47E6-B1B9-92C68F161615 - 10f08a30690e3a2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Iskoci.UserResponse, Alamofire.AFError&gt;) -&gt; () in static Iskoci.EventsService.addToFavoriteRequest(method: Alamofire.HTTPMethod, url: Swift.String, headers: Alamofire.HTTPHeaders, _: (Swift.Result&lt;Iskoci.UserResponse, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kancelarijazamladevranje/Documents/Stefan%20Milic/Iskoci/Iskoci/Networking/Services/EventsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
